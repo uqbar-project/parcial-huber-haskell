@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "parcial-huber-haskell:lib"
+
+    - path: "./test"
+      component: "parcial-huber-haskell:test:parcial-huber-haskell-test"
